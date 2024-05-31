@@ -1,0 +1,8 @@
+/* src/components/BlogList.css */
+.blog-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+  
